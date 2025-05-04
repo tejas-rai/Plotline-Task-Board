@@ -37,3 +37,6 @@ npm run dev
   /utils         → Helper functions
   App.tsx       → Main app layout
   main.tsx      → App entry point
+
+![image](https://github.com/user-attachments/assets/7ad49eba-b0e0-4633-891a-07354399ffec)
+
