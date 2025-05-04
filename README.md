@@ -39,4 +39,4 @@ npm run dev
   main.tsx      → App entry point
 
 
-![Screenshot 2025-05-04 191757](https://github.com/user-attachments/assets/bdeb2f19-073f-4936-94f8-65f06917077e)
+![Screenshot 2025-05-04 191757](https://github.com/user-attachments/assets/035322de-c095-4d97-bad3-983afe42cf63)
