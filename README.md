@@ -21,7 +21,7 @@ It allows users to organize, move, and manage tasks across multiple lists (colum
 
 ## 🚀 Setup Instructions
 
-1️⃣ **Clone the repository**
+ **Clone the repository**
 
 ```bash
 git clone https://github.com/tejas-rai/Plotline-Task-Board.git
