@@ -38,5 +38,5 @@ npm run dev
   App.tsx       → Main app layout
   main.tsx      → App entry point
 
-![image](https://github.com/user-attachments/assets/7ad49eba-b0e0-4633-891a-07354399ffec)
 
+![Screenshot 2025-05-04 191757](https://github.com/user-attachments/assets/bdeb2f19-073f-4936-94f8-65f06917077e)
